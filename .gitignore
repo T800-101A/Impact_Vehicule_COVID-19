@@ -1,3 +1,6 @@
+api_keys.py
+.ipynb_checkpoints
+PresentationArnold.pptx
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

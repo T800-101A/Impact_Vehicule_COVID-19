@@ -1,0 +1,101 @@
+,period,stateid,stateDescription,sectorid,sectorName,price,price-units
+0,2020-05,CO,Colorado,RES,residential,11.93,cents per kilowatthour
+1,2020-06,AL,Alabama,RES,residential,12.84,cents per kilowatthour
+2,2020-03,ENC,East North Central,RES,residential,13.48,cents per kilowatthour
+3,2019-12,MTN,Mountain,RES,residential,11.23,cents per kilowatthour
+4,2020-04,CT,Connecticut,RES,residential,23.79,cents per kilowatthour
+5,2020-04,DE,Delaware,RES,residential,12.85,cents per kilowatthour
+6,2020-04,DC,District of Columbia,RES,residential,12.41,cents per kilowatthour
+7,2020-04,FL,Florida,RES,residential,11.44,cents per kilowatthour
+8,2020-05,AK,Alaska,RES,residential,22.87,cents per kilowatthour
+9,2020-05,AZ,Arizona,RES,residential,12.86,cents per kilowatthour
+10,2019-02,NC,North Carolina,RES,residential,11.5,cents per kilowatthour
+11,2019-02,ND,North Dakota,RES,residential,8.98,cents per kilowatthour
+12,2019-02,OH,Ohio,RES,residential,12.1,cents per kilowatthour
+13,2019-02,OK,Oklahoma,RES,residential,9.58,cents per kilowatthour
+14,2019-02,OR,Oregon,RES,residential,10.83,cents per kilowatthour
+15,2019-02,PA,Pennsylvania,RES,residential,13.59,cents per kilowatthour
+16,2019-02,RI,Rhode Island,RES,residential,24.14,cents per kilowatthour
+17,2019-03,ME,Maine,RES,residential,18.06,cents per kilowatthour
+18,2019-05,ME,Maine,RES,residential,18.15,cents per kilowatthour
+19,2019-05,MD,Maryland,RES,residential,13.48,cents per kilowatthour
+20,2019-05,MA,Massachusetts,RES,residential,22.28,cents per kilowatthour
+21,2019-05,MI,Michigan,RES,residential,15.65,cents per kilowatthour
+22,2019-05,MN,Minnesota,RES,residential,13.62,cents per kilowatthour
+23,2019-05,MS,Mississippi,RES,residential,11.87,cents per kilowatthour
+24,2019-06,LA,Louisiana,RES,residential,9.93,cents per kilowatthour
+25,2019-06,ME,Maine,RES,residential,18.18,cents per kilowatthour
+26,2019-06,MD,Maryland,RES,residential,13.25,cents per kilowatthour
+27,2020-06,TX,Texas,RES,residential,11.76,cents per kilowatthour
+28,2020-06,UT,Utah,RES,residential,10.67,cents per kilowatthour
+29,2020-06,VT,Vermont,RES,residential,19.72,cents per kilowatthour
+30,2020-06,VA,Virginia,RES,residential,12.31,cents per kilowatthour
+31,2019-01,OK,Oklahoma,RES,residential,8.88,cents per kilowatthour
+32,2019-01,OR,Oregon,RES,residential,10.67,cents per kilowatthour
+33,2019-01,PA,Pennsylvania,RES,residential,12.55,cents per kilowatthour
+34,2019-06,US,U.S. Total,RES,residential,13.32,cents per kilowatthour
+35,2019-11,OR,Oregon,RES,residential,11.0,cents per kilowatthour
+36,2019-11,PA,Pennsylvania,RES,residential,14.09,cents per kilowatthour
+37,2020-04,MD,Maryland,RES,residential,13.2,cents per kilowatthour
+38,2020-04,MA,Massachusetts,RES,residential,23.15,cents per kilowatthour
+39,2020-04,MI,Michigan,RES,residential,16.0,cents per kilowatthour
+40,2020-04,MN,Minnesota,RES,residential,12.91,cents per kilowatthour
+41,2020-05,CT,Connecticut,RES,residential,24.21,cents per kilowatthour
+42,2020-05,DE,Delaware,RES,residential,13.42,cents per kilowatthour
+43,2020-06,MTN,Mountain,RES,residential,12.13,cents per kilowatthour
+44,2020-06,PACC,Pacific Contiguous,RES,residential,16.73,cents per kilowatthour
+45,2019-01,RI,Rhode Island,RES,residential,22.68,cents per kilowatthour
+46,2019-01,SC,South Carolina,RES,residential,12.1,cents per kilowatthour
+47,2019-01,SD,South Dakota,RES,residential,10.55,cents per kilowatthour
+48,2019-01,TN,Tennessee,RES,residential,10.88,cents per kilowatthour
+49,2019-01,TX,Texas,RES,residential,11.44,cents per kilowatthour
+50,2019-02,SC,South Carolina,RES,residential,12.94,cents per kilowatthour
+51,2019-02,SD,South Dakota,RES,residential,10.45,cents per kilowatthour
+52,2019-02,TN,Tennessee,RES,residential,10.78,cents per kilowatthour
+53,2019-02,TX,Texas,RES,residential,11.6,cents per kilowatthour
+54,2019-02,UT,Utah,RES,residential,10.05,cents per kilowatthour
+55,2019-02,VT,Vermont,RES,residential,16.71,cents per kilowatthour
+56,2019-02,VA,Virginia,RES,residential,11.55,cents per kilowatthour
+57,2019-02,WA,Washington,RES,residential,9.5,cents per kilowatthour
+58,2019-02,WV,West Virginia,RES,residential,10.1,cents per kilowatthour
+59,2019-03,MD,Maryland,RES,residential,13.44,cents per kilowatthour
+60,2019-03,MA,Massachusetts,RES,residential,22.67,cents per kilowatthour
+61,2019-03,MI,Michigan,RES,residential,15.12,cents per kilowatthour
+62,2019-03,MN,Minnesota,RES,residential,12.66,cents per kilowatthour
+63,2019-05,MO,Missouri,RES,residential,12.48,cents per kilowatthour
+64,2019-01,NC,North Carolina,RES,residential,10.86,cents per kilowatthour
+65,2019-01,ND,North Dakota,RES,residential,9.11,cents per kilowatthour
+66,2019-01,OH,Ohio,RES,residential,12.18,cents per kilowatthour
+67,2020-04,IL,Illinois,RES,residential,13.96,cents per kilowatthour
+68,2020-04,IN,Indiana,RES,residential,12.89,cents per kilowatthour
+69,2020-04,IA,Iowa,RES,residential,12.16,cents per kilowatthour
+70,2020-04,KS,Kansas,RES,residential,13.28,cents per kilowatthour
+71,2020-04,KY,Kentucky,RES,residential,11.17,cents per kilowatthour
+72,2020-04,LA,Louisiana,RES,residential,9.43,cents per kilowatthour
+73,2020-04,ME,Maine,RES,residential,16.81,cents per kilowatthour
+74,2020-05,AR,Arkansas,RES,residential,10.5,cents per kilowatthour
+75,2020-05,CA,California,RES,residential,18.61,cents per kilowatthour
+76,2020-06,RI,Rhode Island,RES,residential,19.28,cents per kilowatthour
+77,2020-06,SC,South Carolina,RES,residential,12.82,cents per kilowatthour
+78,2020-06,SD,South Dakota,RES,residential,12.11,cents per kilowatthour
+79,2020-06,TN,Tennessee,RES,residential,10.88,cents per kilowatthour
+80,2020-07,PA,Pennsylvania,RES,residential,13.32,cents per kilowatthour
+81,2020-07,RI,Rhode Island,RES,residential,19.52,cents per kilowatthour
+82,2020-07,SC,South Carolina,RES,residential,12.59,cents per kilowatthour
+83,2020-07,SD,South Dakota,RES,residential,12.26,cents per kilowatthour
+84,2020-08,ME,Maine,RES,residential,16.83,cents per kilowatthour
+85,2020-08,MD,Maryland,RES,residential,12.47,cents per kilowatthour
+86,2020-03,MA,Massachusetts,RES,residential,22.73,cents per kilowatthour
+87,2020-03,MI,Michigan,RES,residential,15.9,cents per kilowatthour
+88,2020-03,MN,Minnesota,RES,residential,12.57,cents per kilowatthour
+89,2020-03,MS,Mississippi,RES,residential,11.46,cents per kilowatthour
+90,2020-03,MO,Missouri,RES,residential,10.31,cents per kilowatthour
+91,2020-04,GA,Georgia,RES,residential,11.57,cents per kilowatthour
+92,2020-04,HI,Hawaii,RES,residential,32.75,cents per kilowatthour
+93,2019-03,RI,Rhode Island,RES,residential,23.12,cents per kilowatthour
+94,2019-03,SC,South Carolina,RES,residential,12.98,cents per kilowatthour
+95,2019-03,SD,South Dakota,RES,residential,10.62,cents per kilowatthour
+96,2019-11,WV,West Virginia,RES,residential,11.69,cents per kilowatthour
+97,2019-11,WI,Wisconsin,RES,residential,14.03,cents per kilowatthour
+98,2019-11,WY,Wyoming,RES,residential,10.93,cents per kilowatthour
+99,2019-11,NEW,New England,RES,residential,21.0,cents per kilowatthour
